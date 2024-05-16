@@ -9,9 +9,7 @@
 
     ::-webkit-scrollbar-thumb {
         background-color: #05ab6e;
-        /* Color del control deslizante */
         border-radius: 6px;
-        /* Radio de borde del control deslizante */
     }
 
 }
