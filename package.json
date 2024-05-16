@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://ederpanta18.github.io/task_and_cards",
+  "homepage": "https://ederpanta18.github.io/task_and_cards",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
