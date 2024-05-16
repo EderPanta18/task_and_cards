@@ -7,9 +7,7 @@ import { Toaster } from 'react-hot-toast'
 import Info from './components/Info'
 
 function App() {
-
   const [tasks, setTasks] = useState([])
-
   useEffect(() => {
     const storedTasks = localStorage.getItem("tasks");
     if (storedTasks) {
